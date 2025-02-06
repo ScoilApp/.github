@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://swox.app/" target="_blank">Swox</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://swox.cc/" target="_blank">Swox</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">We are the next generation social network in the WEB3.</h3>
 
